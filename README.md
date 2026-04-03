@@ -97,25 +97,18 @@ SteelWatch/
 ```text
 Incoming HTTP Request
         │
-        ▼
 http.HandleFunc("/") → HTTPHandler.Handle()
         │
-        ▼
 Normalize & parse request
         │
-        ▼
 Generate fingerprint (SHA1)
         │
-        ▼
 Apply scoring heuristics
         │
-        ▼
 Persist event (thread-safe store)
         │
-        ▼
 Optional API exposure (/api/events)
         │
-        ▼
 Return static response ("OK")
 ```
 
