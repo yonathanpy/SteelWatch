@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/500/000000/radar.png" width="200" alt="SteelWatch Radar Icon"/>
-</p>
+<!-- Shield -->
+<img src="https://img.icons8.com/ios-filled/500/000000/shield.png" width="200"/>
 
 # SteelWatch
 
